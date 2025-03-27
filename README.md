@@ -11,6 +11,16 @@ These two Python scripts are a simple implementation of a client server chat app
 allows users to connect to the server and send and/or receive messages to other clients on the server. The server handles multiple clients at the same time by using threads.
 The client can send and receive messages and commands like /exit, /whoami, /help, and /users.
 
+### IP Address Scanner Script: [port-scanner-GustavNord](https://github.com/WTCSC/port-scanner-GustavNord.git)
+This script scans a network range specified in CIDR notation (192.168.1.0/24) and reports the status of each IP address in the range. 
+The script pings each host and returns the host's status and notes if it's "Up", "Down", or if an error occured during the scan. 
+It also includes response times for each successful ping. This script accepts one command-line argument. The network range to scan in CIDR format 192.168.1.0/24.
+
+### MAC Address changer: [mac-address-changer-GustavNord](https://github.com/WTCSC/mac-address-changer-GustavNord.git)
+This script allows users to change the MAC address of a network interface. 
+It can be used to set a custom MAC address, create a random MAC address, or revert back to the original MAC address. This script handles the installation of macchanger if it's not installed already. It works for both Python and Shell.
+
+### : [Robots-Only](https://github.com/GustavNord/Robots-Only.git)
 
 ## 📖 What I’m Learning
 

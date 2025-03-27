@@ -20,7 +20,11 @@ It also includes response times for each successful ping. This script accepts on
 This script allows users to change the MAC address of a network interface. 
 It can be used to set a custom MAC address, create a random MAC address, or revert back to the original MAC address. This script handles the installation of macchanger if it's not installed already. It works for both Python and Shell.
 
-### : [Robots-Only](https://github.com/GustavNord/Robots-Only.git)
+### Text Based Game created only using A.I.: [Robots-Only](https://github.com/GustavNord/Robots-Only.git)
+A text-based adventure RPG where you step into the shoes of a hero determined to retrieve a powerful relic stolen by a dark sorcerer. 
+Choose from three unique character classes: Warrior, Mage, and Rogue. Navigate through turn-based combat, exploration, and critical decisions that shape the outcome of your quest. 
+The game features dynamic combat, branching storylines, and multiple endings based on your choices. The adventure unfolds as you traverse environments like the Haunted Forest, Enchanted Castle, and Bandit’s Lair, with the fate of the Lost Relic in your hands.
+
 
 ## 📖 What I’m Learning
 

@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and dedicated to improving my skills. I’m e
 
 ## 🛠️ Projects
 
-- Server and Client Chatroom: [socket-to-em-gustav](https://github.com/WTCSC/socket-to-em-gustav.git)
+### Server and Client Chatroom: [socket-to-em-gustav](https://github.com/WTCSC/socket-to-em-gustav.git)
 These two Python scripts are a simple implementation of a client server chat application. The server script creates a server that listens for incoming connections, while the client script
 allows users to connect to the server and send and/or receive messages to other clients on the server. The server handles multiple clients at the same time by using threads.
 The client can send and receive messages and commands like /exit, /whoami, /help, and /users.

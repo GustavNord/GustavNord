@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and dedicated to improving my skills. I’m e
 
 ## 🛠️ Projects
 
-- Server and Client Chatroom: [Link](https://github.com/WTCSC/socket-to-em-gustav.git)
+- Server and Client Chatroom: [socket-to-em-gustav](https://github.com/WTCSC/socket-to-em-gustav.git)
 
 ## 📖 What I’m Learning
 

@@ -4,6 +4,14 @@ I'm **Gustav**, a Cybersecurity student from **Uppsala, Sweden**, currently resi
 
 I'm passionate about cybersecurity and dedicated to improving my skills. I’m excited to collaborate, contribute, and expand my knowledge.
 
+## 📖 What I’m Learning
+
+- **Programming Languages**: Python, Bash
+- **Web Technologies**: HTML, CSS, JavaScript
+- **Command-Line Interfaces**: Linux Terminal, PowerShell
+- **Operating Systems/Environments**: Kali Linux, Ubuntu, Windows, Metasploitable
+- **Tools**: Wireshark, Nmap
+
 
 ## 📬 Get in Touch
 

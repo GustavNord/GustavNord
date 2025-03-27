@@ -4,6 +4,10 @@ I'm **Gustav**, a Cybersecurity student from **Uppsala, Sweden**, currently resi
 
 I'm passionate about cybersecurity and dedicated to improving my skills. I’m excited to collaborate, contribute, and expand my knowledge.
 
+## 🛠️ Projects
+
+- Server and Client Chatroom: [Link](https://github.com/WTCSC/socket-to-em-gustav.git)
+
 ## 📖 What I’m Learning
 
 - **Programming Languages**: Python, Bash

@@ -25,7 +25,6 @@ A text-based adventure RPG where you step into the shoes of a hero determined to
 Choose from three unique character classes: Warrior, Mage, and Rogue. Navigate through turn-based combat, exploration, and critical decisions that shape the outcome of your quest. 
 The game features dynamic combat, branching storylines, and multiple endings based on your choices. The adventure unfolds as you traverse environments like the Haunted Forest, Enchanted Castle, and Bandit’s Lair, with the fate of the Lost Relic in your hands.
 
-
 ## 📖 What I’m Learning
 
 - **Programming Languages**: Python, Bash
@@ -41,5 +40,3 @@ The game features dynamic combat, branching storylines, and multiple endings bas
 - LinkedIn: [Gustav Nordqvist](https://www.linkedin.com/in/gustav-nordqvist-76b993358/)
 
 *If you're reaching out, please include your GitHub username so I can better understand your work and interests!*
-
----
